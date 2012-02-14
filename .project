@@ -23,7 +23,7 @@
 		<link>
 			<name>log4j-1.2.6.jar</name>
 			<type>1</type>
-			<location>C:/Users/Brian/Eclipse/BookStore/log4j-1.2.6.jar</location>
+			<location>C:/Users/Brian/Downloads/log4j-1.2.6.jar/log4j-1.2.6.jar</location>
 		</link>
 		<link>
 			<name>log4j.properties</name>
@@ -34,11 +34,6 @@
 			<name>src</name>
 			<type>2</type>
 			<location>C:/Users/Brian/Eclipse/BookStore/src</location>
-		</link>
-		<link>
-			<name>bin/book/Book.class</name>
-			<type>1</type>
-			<location>C:/Users/Brian/Eclipse/BookStore/bin/book/Book.class</location>
 		</link>
 		<link>
 			<name>src/book/Book.class</name>
